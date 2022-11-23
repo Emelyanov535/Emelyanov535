@@ -1,11 +1,5 @@
 <h2> Hey there</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Reimagine+Creativity+%E2%9C%A8;Welcome+to+GitHub+of+Eagle;Check+out+eagledev.ml)](https://eagledev.ml)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eagle1309&label=Profile%20views&color=0e75b6&style=flat" alt="eagle1309" /> </p>
-
-<p align="left"> <a href="https://twitter.com/eagledev_" target="blank"><img src="https://img.shields.io/twitter/follow/eagledev_?logo=twitter&style=for-the-badge" alt="eagledev_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eagle1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eagle1309" height="30" width="40" /></a>
