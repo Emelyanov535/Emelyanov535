@@ -3,6 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/_emelyanoff_9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eagledev_" height="30" width="40" /></a>
+<a href=" https://t.me/zxcasdqweqweqwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eagledev_" height="30" width="40" /></a>
 </p>
 
 <br />
