@@ -1,25 +1,10 @@
-<h2> Hey there, I'm Vighnesh aka. Eagle</h2>
-<p align="center">A passionate developer based in India, working ambitiously to accomplish and create great things. I'm currently exploring frontend developement.</p>
+<h2> Hey there</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Reimagine+Creativity+%E2%9C%A8;Welcome+to+GitHub+of+Eagle;Check+out+eagledev.ml)](https://eagledev.ml)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eagle1309&label=Profile%20views&color=0e75b6&style=flat" alt="eagle1309" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eagledev_" target="blank"><img src="https://img.shields.io/twitter/follow/eagledev_?logo=twitter&style=for-the-badge" alt="eagledev_" /></a> </p>
-
-<br />
-
-- 🌱 I’m currently learning **NextJs and Backend Development.**
-
-- 👨‍💻 All of my projects are available at [https://eagledev.ml](https://eagledev.ml)
-
-- 📝 I regularly write articles on [https://dev.to/eagle1309](https://dev.to/eagle1309)
-
-- 📫 How to reach me **eagle.business00@gmail.com**
-
-- ⚡ Fun fact **I code everything on android (I use chakra ui for responsive design).**
-
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
