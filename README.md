@@ -4,7 +4,7 @@
 <a href="https://instagram.com/_emelyanoff_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_emelyanoff_9" height="30" width="40" /></a>
 <a href="https://discord.gg/#3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3110" height="30" width="40" /></a>
 <a href="https://t.me/zxcasdqweqweqwe" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="zxcasdqweqweqwe" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Emelyanov535" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Emelyanov535" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Emelyanov535" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="Emelyanov535" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
