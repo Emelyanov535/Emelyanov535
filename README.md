@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
 <a href="https://instagram.com/_emelyanoff_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_emelyanoff_9" height="30" width="40" /></a>
 <a href="https://discord.gg/#3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3110" height="30" width="40" /></a>
